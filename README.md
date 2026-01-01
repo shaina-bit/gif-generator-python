@@ -19,6 +19,6 @@ and combined into an animated GIF using Python.
 3. Frames are combined and encoded into a looping GIF.
 
 ##OUTPUT
-<img width="695" height="413" alt="image" src="https://github.com/user-attachments/assets/4adb3414-d59a-4e3d-bb00-58513e7c9dc0" />
+![GIF](team.gif)
 
 
